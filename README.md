@@ -1,4 +1,4 @@
-🎓 Student Management API
+## 🎓 Student Management API
 
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)](https://spring.io/projects/spring-boot)  
@@ -56,7 +56,7 @@ A **RESTful API** built with **Spring Boot** to manage student records. This pro
 
 ## 🌐 Postman Testing
 
-![Add value using POST](https://github.com/user-attachments/assets/85c72b5e-7ea9-4602-be70-298dee53b91b)# 🎓 Student Management AP
+![Add value using POST](https://github.com/user-attachments/assets/85c72b5e-7ea9-4602-be70-298dee53b91b)
 
 ![View details of student id-1 using GET](https://github.com/user-attachments/assets/f5dafb6e-77e9-4bf9-997d-dd3282838e16)
 ![Updated the details of student using PUT](https://github.com/user-attachments/assets/b01fb494-c4bf-4f5f-ac69-d80c0bb1fe25)
